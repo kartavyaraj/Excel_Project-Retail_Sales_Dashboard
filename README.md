@@ -265,7 +265,7 @@ All stores achieved similar **profit margins (~35%)**, showing balanced operatio
     - _KPIs_ – Key performance indicators like transactions, revenue, profit, quantity sold, and discount loss.
     - _Dashboard_ – Interactive visualizations with slicers for Year, Month, Store, Customer Segment, Product Category/Sub-Category, and Payment Type.
     - _Insights_ – Analytical findings derived from trends, top-performing products, and category-level performance.
-    - Interact with the Dashboard: Use the interactive slicers and charts to filter and drill down into the data for detailed analysis.
+3. Interact with the Dashboard: Use the interactive slicers and charts to filter and drill down into the data for detailed analysis.
 
 
 ## Conclusion
