@@ -69,7 +69,7 @@ This dataset enables the creation of KPIs, pivot tables, Power Pivot models, DAX
 
 The Retail Sales Dashboard provides interactive insights into sales performance using dynamic slicers, KPIs, and visualizations, enabling stakeholders to monitor key metrics, analyze trends, and make data-driven business decisions.
 
-1. **Dynamic Slicers**
+1. Dynamic Slicers
 
     - ***Time: Year, Month*** — for both high-level annual trends and detailed monthly/weekly insights.
 
@@ -77,7 +77,7 @@ The Retail Sales Dashboard provides interactive insights into sales performance 
 
     - ***Products & Payments***: Drill down by category, sub-category, or payment type to identify patterns and opportunities.
 
-2. **Key Performance Indicators (KPIs)**
+2. Key Performance Indicators (KPIs)
 
     - ***Tansactions***: Total number of sales, helping to monitor overall business activity.
 
@@ -89,7 +89,7 @@ The Retail Sales Dashboard provides interactive insights into sales performance 
 
     - ***Discount Loss***: Revenue lost due to discounts, helping evaluate pricing strategies.
 
-3. **Visualizations**
+3. Visualizations
 
     - ***Monthly Revenue Trend***: Shows yearly revenue patterns, helping to identify seasonal trends and peak sales periods.
 
