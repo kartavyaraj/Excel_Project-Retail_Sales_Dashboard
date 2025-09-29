@@ -99,14 +99,6 @@ The Retail Sales Dashboard provides interactive insights into sales performance 
 
     - ***Top 10 Products by Revenue and Profit***: Highlights best-selling and most profitable products, guiding marketing, stocking, and sales strategies.
 
-#### Impact & Benefits
-
-- Enables business stakeholders to quickly grasp the overall performance and key trends.
-
-- Supports data-driven decisions for inventory management, pricing strategies, and sales optimization.
-
-- Provides a clear picture of customer behavior, product performance, and store-level sales, helping businesses maximize revenue and profitability.
-
 
 ## Key Insights
 
