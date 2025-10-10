@@ -281,7 +281,7 @@ This project highlights my capability to transform raw data into meaningful insi
 
 ***Kartavya Raj*** – Aspiring Data Analyst
 
-Passionate about data analysis, visualization, and business insights. Skilled in Excel, SQL, Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly) and data visualization
+Passionate about data analysis, visualization, modeling and business insights. Skilled in Excel, SQL, Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly).
 
 
 ## Contact
