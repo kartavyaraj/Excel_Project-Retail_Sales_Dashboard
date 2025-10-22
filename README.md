@@ -1,4 +1,4 @@
-#  Retail Sales Performance Analysis & Interactive Dashboard
+#  Retail Business Performance Dashboard & Sales Analytics
 
 _A dynamic MS Excel-based Retail Sales Dashboard, built using Pivot Tables, DAX, and visualizations, that highlights KPIs, trends, and insights to support data-driven business decisions._
 
@@ -262,7 +262,7 @@ All stores achieved similar **profit margins (~35%)**, showing balanced operatio
 
 ## Conclusion
 
-This **Retail Sales Performance Analysis & Interactive** Dashboard project demonstrates my proficiency in data analysis and visualization using MS Excel. It showcases my ability to:
+This **Retail Business Performance Dashboard & Sales Analytics** Dashboard project demonstrates my proficiency in data analysis and visualization using MS Excel. It showcases my ability to:
 
 1. Clean and pre-process datasets for accurate analysis
 
@@ -293,4 +293,4 @@ For any questions or further information, please contact me.
 
 ---
 
-[🔼 Back to Top](#retail-sales-performance-analysis--interactive-dashboard)
+[🔼 Back to Top](#retail-business-performance-dashboard--sales-analytics)
